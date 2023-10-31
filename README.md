@@ -19,8 +19,6 @@ The maximum current for 3.3V is 500mA , what is enough current for power of Ardu
 
 The output connector includes switchable power supply (3.3V or 5V), UART and DTR & RTS pins which are used for switch to bootloader mode.
 
-Driver is available on http://www.wch-ic.com/search?t=all&q=CP2102
-
-Github of CP2102 programmer https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+Driver is available on https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
 It is available on https://www.laskakit.cz/prevodnik-6pin-microusb-ttl-uart--cp2102--dtr-pin/
